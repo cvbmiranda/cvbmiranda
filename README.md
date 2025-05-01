@@ -2,9 +2,19 @@
 
 🎓 Estudante de Engenharia de Software na Universidade de Brasília (UnB)  
 💡 Apaixonado por tecnologia e programação  
-💻 Atualmente focado em projetos com Python, HTML, CSS e C 
+💻 Atualmente focado em projetos com Python, HTML, CSS e C  
 🎮 Desenvolvendo joguinhos e implementando os meus projetos acadêmicos e pessoais
 
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Caio-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  
+</div>
+  
 ---
 
 ## 🔧 Tecnologias & Ferramentas
@@ -17,28 +27,21 @@
 
 ---
 
-## 📌 Projetos em Destaque
-
-- [🎮 Jogo da Velha com POO](https://github.com/seu-usuario/repositorio-jogo-da-velha)
-- [📊 Sistema de Gestão de Incidentes com gamificação](https://github.com/seu-usuario/sgi-projeto)
-- [🧠 Simulador de Grafos (Ajude os Patinhos)](https://github.com/seu-usuario/ajude-os-patinhos)
-
-> Veja mais projetos nos meus repositórios públicos 👇
-
----
-
 ## 📈 GitHub Stats
 
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
+<div style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=cvbmiranda&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvbmiranda&layout=compact" height="170"/>
+</div>
 
 ---
 
 ## 🤝 Conecte-se comigo
 
-- 📧 Email: caio.seuemail@exemplo.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 📧 Email: caiovbm512@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/caio-vilas-boas-637439271/)
 - 🌐 Portfólio (em construção)
+
 
 ---
 
-📍 _“Não é magia, é engenharia.”_
