@@ -44,5 +44,5 @@
 
 
 ---
-![Snake animation](https://github.com/cvbmiranda)
+![Snake animation](https://github.com/cvbmiranda/cvbmiranda/blob/output/github-contribution-grid-snake.svg)
 
