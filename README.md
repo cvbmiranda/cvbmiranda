@@ -39,7 +39,7 @@
 ## 🤝 Conecte-se comigo
 
 - 📧 Email: caiovbm512@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/caio-vilas-boas-637439271/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/caio-vilas-boas-miranda-637439271)
 - 🌐 Portfólio (em construção)
 
 
