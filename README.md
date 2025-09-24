@@ -14,14 +14,13 @@
   </a>
 </p>
 
-
 ---
 
 ## 🚀 Projetos em destaque  
 
-- [**GitFica**](link): Sistema de gestão de incidentes gamificado (Django + PostgreSQL + OAuth GitHub)  
-- [**Jogo da Velha**](link): Implementação em Python com POO, GUI e regras inteligentes  
-- [**Batalha Naval / Campo Minado**](link): Jogos em Python com **WebSockets** e comunicação em tempo real  
+- [**GitFica**](https://github.com/fga-eps-mds/2025.1-SGI-Backend): Sistema de gestão de incidentes gamificado (Django + PostgreSQL + OAuth GitHub)  
+- [**Jogo da Velha**](https://github.com/cvbmiranda/games): Implementação em Python com POO, GUI e regras inteligentes  
+- [**Batalha Naval / Campo Minado**](https://github.com/cvbmiranda/arcadia): Jogos em Python com **WebSockets** e comunicação em tempo real  
 
 ---
 
@@ -44,6 +43,19 @@
 🔜 **WebSockets** – jogos multiplayer e comunicação em tempo real  
 🔜 **Engenharia de Software aplicada** – sistemas com autenticação, banco de dados e gamificação  
 🔜 **Backend Web** – aprofundar em Django, PostgreSQL e boas práticas de API  
+
+---
+
+## 📌 Últimos Repositórios  
+
+<p align="center">
+  <a href="https://github.com/fga-eps-mds/2025.1-SGI-Backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cvbmiranda&repo=gitfica&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/cvbmiranda/arcadia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cvbmiranda&repo=jogo-da-velha&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
