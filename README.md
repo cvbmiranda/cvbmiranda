@@ -46,19 +46,6 @@
 
 ---
 
-## 📌 Últimos Repositórios  
-
-<p align="center">
-  <a href="https://github.com/fga-eps-mds/2025.1-SGI-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cvbmiranda&repo=gitfica&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/cvbmiranda/arcadia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cvbmiranda&repo=jogo-da-velha&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 🤝 Contato  
 
 - 📧 Email: **caiovbm512@gmail.com**  
