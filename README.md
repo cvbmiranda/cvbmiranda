@@ -1,5 +1,5 @@
-# Olá, eu sou o Caio Vilas Boas Miranda! 
-**Desenvolvedor de Software baseado em Brasília, DF.**
+# Olá, eu sou o Caio Vilas Boas! 
+**Desenvolvedor de Software **
 
 Sou estudante de Engenharia de Software na **Universidade de Brasília (UnB)** com foco em construir sistemas de ponta a ponta. Atuo desde a modelagem de banco de dados e estruturação de APIs no backend até a criação de interfaces dinâmicas no frontend e automações.
 
