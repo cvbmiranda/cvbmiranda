@@ -1,5 +1,5 @@
 # Olá, eu sou o Caio Vilas Boas! 
-**Desenvolvedor de Software **
+**Desenvolvedor de Software**
 
 Sou estudante de Engenharia de Software na **Universidade de Brasília (UnB)** com foco em construir sistemas de ponta a ponta. Atuo desde a modelagem de banco de dados e estruturação de APIs no backend até a criação de interfaces dinâmicas no frontend e automações.
 
@@ -57,6 +57,16 @@ Gosto de criar soluções que não apenas resolvem problemas, mas que otimizam p
 </p>
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizcarloslzn/luizcarloslzn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizcarloslzn/luizcarloslzn/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizcarloslzn/luizcarloslzn/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+
 
 > *"A força não está no número de peças no tabuleiro, mas em entender como o jogo funciona." — Shikamaru Nara*
 
